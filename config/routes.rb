@@ -1,4 +1,4 @@
-Claspock::Application.routes.draw do
+Groupock::Application.routes.draw do
   resources :users, only: [] do
     get :signin, on: :collection
     get :signout, on: :collection

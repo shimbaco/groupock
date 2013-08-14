@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Claspock::Application.config.secret_key_base = '2dbd92e653f32213a2ecd08e08425e99926e2fb031e23884d86da4993d14547db833d0e2e77ee6df525c31b93d9c77df8ee5d3c9b43cb755b9635cc9334fde44'
+Groupock::Application.config.secret_key_base = '2dbd92e653f32213a2ecd08e08425e99926e2fb031e23884d86da4993d14547db833d0e2e77ee6df525c31b93d9c77df8ee5d3c9b43cb755b9635cc9334fde44'
